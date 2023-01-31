@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Projects/realtime_rendering/cmake-build-debug/CMakeFiles/realtime_rendering.dir/embed.manifest"
